@@ -1,0 +1,19 @@
+InsultBot 1.0
+Creates an IRC bot that will join a chat room and insult its occupants.
+
+# CREDITS
+
+# irc.rb
+# ORIGINAL AUTHOR: Hans Zimmer
+# SOURCE: http://www.dzone.com/snippets/simple-irc-bot-written-ruby
+# EDITED BY: Adam Hernandez
+
+# insult.rb
+# ORIGINAL AUTHOR: JavaScriptSource Staff
+# SOURCE: http://www.javascriptsource.com/games/curse.html
+# EDITED BY: Adam Hernandez
+
+# main.rb
+# ORIGINAL AUTHOR: Hans Zimmer
+# SOURCE: http://www.dzone.com/snippets/simple-irc-bot-written-ruby
+# EDITED BY: Adam Hernandez

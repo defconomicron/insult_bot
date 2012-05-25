@@ -1,19 +1,19 @@
-InsultBot 1.0
-Creates an IRC bot that will join a chat room and insult its occupants.
+InsultBot v1.0
 
-# CREDITS
+Creates an IRC bot that will join a chatroom and insult its occupants.
 
-# irc.rb
-# ORIGINAL AUTHOR: Hans Zimmer
-# SOURCE: http://www.dzone.com/snippets/simple-irc-bot-written-ruby
-# EDITED BY: Adam Hernandez
+By default this bot will connect to irc.freenode.net and join the #insult_bot chatroom.
 
-# insult.rb
-# ORIGINAL AUTHOR: JavaScriptSource Staff
-# SOURCE: http://www.javascriptsource.com/games/curse.html
-# EDITED BY: Adam Hernandez
+To request an insult, simply type the message "insult" into the chatroom.
 
-# main.rb
-# ORIGINAL AUTHOR: Hans Zimmer
-# SOURCE: http://www.dzone.com/snippets/simple-irc-bot-written-ruby
-# EDITED BY: Adam Hernandez
+*** CREDITS ***
+
+* main.rb & irc.rb
+ORIGINAL AUTHOR: Hans Zimmer
+SOURCE: http://www.dzone.com/snippets/simple-irc-bot-written-ruby
+
+* insult.rb
+ORIGINAL AUTHOR: JavaScriptSource Staff
+SOURCE: http://www.javascriptsource.com/games/curse.html
+
+Files edited and integrated by Adam Hernandez.

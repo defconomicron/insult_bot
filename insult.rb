@@ -13,6 +13,7 @@ class Insult
   $a = $b = $c = $d = $e = $f = $g = 0
   
   def initialize(options={})
+    puts "initialize"
     $ins1.shuffle!
     $ins2.shuffle!
     $ins3.shuffle!
@@ -36,6 +37,7 @@ class Insult
     
     def ins(i)
       alpha = %w{_ a b c d e f g}
+      puts eval("$#{alpha[i]}")
       eval(
         "
           if $#{alpha[i]} == $ins#{i}.length
